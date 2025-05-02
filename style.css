@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to right, violet, purple);
+}
+
+main {
+    margin-top: 10px;
+    text-align: center;
+}
+
+input {
+    border: none;
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 90vw;
+    border-radius: 2px;
+    margin-bottom: 10px;
+}
